@@ -12,7 +12,7 @@ Then compile and upload the firmware.
 
 ## Print 3DTouch/BLtouch Dock
 
-The STL file is in this folder , its name is "BLtouch Dock.stl".
+The STL file is in this folder , its name is "BLtouch Dock.stl". And you can use "BLtouch Dock01.STL" file if your own extruder brace has conflict with "BLtouch Dock.stl".
 
 ## Installation Guide
 

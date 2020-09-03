@@ -1,6 +1,6 @@
 # FYSETC S6 Installation Guide
 
-There are several options  for you  to install FYSETC S6 motherboard  for HiPrecy LEO machine.
+There are <u>**4**</u> options  for you  to install FYSETC S6 motherboard  for HiPrecy LEO machine.
 
 But first of all , i need to mention that we USE FYSETC S6 V2.0 board which we have priority to use for LEO. And you can use S6 v1.2 board , but LEO only 
 
@@ -8,13 +8,13 @@ support TMC2209s for this board.
 
 ## Options
 
-So firstly let me show you the options we provide you. See the video [here](https://www.youtube.com/watch?v=JwpbHcIDuRg).
+So firstly let me show you the 4 options we provide you. See the video [here](https://www.youtube.com/watch?v=JwpbHcIDuRg).
 
 ### Option A
 
 This option is the simplest way to finish installation. It is for those who want to avoid complicate operation or those who are worry about destroying the machine when doing installing operations. 
 
-You need the list below and you can find it here.
+You need the list below and you can find it [here](https://www.aliexpress.com/item/1005001388620584.html?spm=5261.ProductManageOnline.0.0.42fb4edffQhUC1).
 
 1. SD Module 4050 v1.0
 2. Touch screen
@@ -29,7 +29,7 @@ You can follow the [video](https://www.youtube.com/watch?v=sdiuI3mIXBw) here to 
 
 In option B , it's almost the same as option A ,but we assume that you already have the S6 board yourself.
 
-You need the list below and you can find it here.
+You need the list below and you can find it [here](https://www.aliexpress.com/item/1005001388620584.html?spm=5261.ProductManageOnline.0.0.42fb4edffQhUC1).
 
 1. SD Module 4050 v1.0
 2. Touch screen
@@ -41,7 +41,7 @@ You can follow the [video](https://www.youtube.com/watch?v=sdiuI3mIXBw) here to 
 
 ### Option C
 
-In this option, we assume that you want to use S6 v2.0 board to avoid TMC2130s issues but you want to use your stock screen. Please make sure you got the skills to do this. You need the list below, and you can find it here.
+In this option, we assume that you want to use S6 v2.0 board to avoid TMC2130s issues but you want to use your stock screen. Please make sure you got the skills to do this. You need the list below, and you can find it [here](https://www.aliexpress.com/item/1005001388620584.html?spm=5261.ProductManageOnline.0.0.42fb4edffQhUC1).
 
 1. SD Module 4050 v1.0
 2. S6 v2.0 board
@@ -55,7 +55,7 @@ Now you get the new screen module now, so you can follow this [video](https://ww
 
 ### Option D
 
-In this option, we assume that you already have a  FYSETC S6 board and want to use the stock screen to finish installation. But you'd better see all below video guides before you start. You need the list below, and you can find it here.
+In this option, we assume that you already have a  FYSETC S6 board and want to use the stock screen to finish installation. But you'd better see all below video guides before you start. You need the list below, and you can find it [here](https://www.aliexpress.com/item/1005001388922186.html?spm=5261.ProductManageOnline.0.0.6d274edfaUbvHV).
 
 1. SD Module 4050 v1.0
 
@@ -88,7 +88,7 @@ Then you can follow the [FYSETC wiki](https://wiki.fysetc.com/FYSETC_S6/) to com
 1. Copy the compile output file ```firmware.bin``` to your SD card(normally it stays at ```YOUR_FRIMWARE_LOCATE\.pio\build```)
 2. Power off LEO
 3. Insert the SD card to LEO right side SD slot.
-4. Power on LEO
+4. Power on LEO and wait for the splash screen
 
 Here we go!
 

@@ -6,6 +6,12 @@ But first of all , i need to mention that we USE FYSETC S6 V2.0 board which we h
 
 support TMC2209s for this board.
 
+## Notice
+
+In the installation video , we forget to close the X-DAIG and Y-DIAG dumpers , please  close them.
+
+![img](diag.png)
+
 ## Options
 
 So firstly let me show you the 4 options we provide you. See the video [here](https://www.youtube.com/watch?v=JwpbHcIDuRg).

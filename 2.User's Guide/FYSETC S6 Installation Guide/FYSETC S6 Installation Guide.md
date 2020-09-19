@@ -29,7 +29,7 @@ You need the list below and you can find it [here](https://www.aliexpress.com/it
 5. A print model
 6. 4 * plastic gaskets
 
-You can follow the [video](https://youtu.be/N2eGN87d1bs) here to finish the installation.
+You can follow the [video](https://youtu.be/BhZoQ32DnBE) here to finish the installation.
 
 ### Option B
 
@@ -43,7 +43,7 @@ You need the list below and you can find it [here](https://www.aliexpress.com/it
 4. A print model
 5. 4 * plastic gaskets
 
-You can follow the [video](https://youtu.be/N2eGN87d1bs) here to finish the installation.
+You can follow the [video](https://youtu.be/BhZoQ32DnBE) here to finish the installation.
 
 ### Option C
 
@@ -57,7 +57,7 @@ In this option, we assume that you want to use S6 v2.0 board to avoid TMC2130s i
 
 First you need to replace the sd module with new sd module. You can follow this [video](https://www.youtube.com/watch?v=Uad3ZhkHbRU).
 
-Now you get the new screen module now, so you can follow this [video](https://youtu.be/N2eGN87d1bs) to finish the installation.
+Now you get the new screen module now, so you can follow this [video](https://youtu.be/BhZoQ32DnBE) to finish the installation.
 
 ### Option D
 
@@ -73,7 +73,7 @@ In this option, we assume that you already have a  FYSETC S6 board and want to u
 
 First you need to replace the sd module with new sd module. You can follow this [video](https://www.youtube.com/watch?v=Uad3ZhkHbRU).
 
-Now you get the new screen module now, so you can follow this [video](https://youtu.be/N2eGN87d1bs) to finish the installation.
+Now you get the new screen module now, so you can follow this [video](https://youtu.be/BhZoQ32DnBE) to finish the installation.
 
 ## Firmware
 

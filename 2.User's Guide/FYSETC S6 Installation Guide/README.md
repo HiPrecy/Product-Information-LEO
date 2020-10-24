@@ -4,13 +4,19 @@ There are <u>**4**</u> options  for you  to install FYSETC S6 motherboard  for H
 
 But first of all , i need to mention that we USE FYSETC S6 V2.0 board which we have priority to use for LEO. And you can use S6 v1.2 board , but LEO only 
 
-support TMC2209s for this board.
+support TMC2209s for S6 v1.2.
 
 ## Notice
 
-In the installation video , we forget to close the X-DAIG and Y-DIAG dumpers , please  close them.
+- In the installation video , we forget to close the X-DAIG and Y-DIAG dumpers , please  close them.
+
 
 ![img](diag.png)
+
+- If your machine is using the old probe , please change for a new one. You can get it [here](https://www.aliexpress.com/item/1005001644904733.html?spm=5261.ProductManageOnline.0.0.37b34edfQFaFLd
+), S6 only works with the new probe.
+  
+  <img src="Probe.jpg" style="zoom:50%;" /> 
 
 ## Options
 

@@ -104,5 +104,8 @@ Then you can follow the [FYSETC wiki](https://wiki.fysetc.com/FYSETC_S6/) to com
 
 Here we go!
 
+### Bootloader for HiPrecy
 
+We customize a bootloader from FYSETC to show loading process when you are updating firmware. It's name is ```Hiprecy_Bootloader_S6.hex```. You can update the bootloader following the FYSETC instruction [here](https://github.com/FYSETC/Bootloader-S6). Have fun!
 
+![](249.Firmware - updating.bmp)

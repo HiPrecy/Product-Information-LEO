@@ -106,6 +106,6 @@ Here we go!
 
 ### Bootloader for HiPrecy
 
-We customize a bootloader from FYSETC to show loading process when you are updating firmware. It's name is ```Hiprecy_Bootloader_S6.hex```. You can update the bootloader following the FYSETC instruction [here](https://github.com/FYSETC/Bootloader-S6). Have fun!
+We customize a bootloader from FYSETC to show loading process when you are updating firmware. It's name is ```Hiprecy_Bootloader_S6.hex```. You can update the bootloader following the FYSETC instruction [here](https://github.com/FYSETC/Bootloader-S6). And then you need to update screen firmware to latest, [here for light theme](https://github.com/HiPrecy/Touch-Lcd-LEO) or [here for dark theme](https://github.com/HiPrecy/Touch-Lcd-LEO/tree/2.0.x-Dark). After that , you are good to go. Have fun!
 
 ![](249.Firmware - updating.bmp)
